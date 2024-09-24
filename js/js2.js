@@ -1,1 +1,1 @@
-resposta = alert('Pressione o botão "OK"\n para visualizar o nome da disciplina');
+resposta = alert('Pressione o botão "OK"\npara visualizar o nome da disciplina');
